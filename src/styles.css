@@ -20,6 +20,7 @@
   background-image: url('./assets/images/bg-intro-mobile.png');
   background-color: var(--red);
   min-height: 100vh;
+  max-height: 100vh;
 }
 
 
